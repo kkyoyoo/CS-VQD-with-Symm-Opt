@@ -1,0 +1,1458 @@
+converged SCF energy = -98.5710110679767
+Ground state energy:  -98.60330177725889
+state 0 energy:  -98.60330177725889
+state 1 energy:  -98.13175135661527
+state 2 energy:  -97.79489745957984
+Procedure begins at : 2024-10-25 09:56:20
+The Hamiltonian before contextualized has 8 qubits
+
+Number of qubits: 1
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 0.3762582289030547
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.982573, beta*overlap= 9.825734
+state's energy:-98.571011
+fun_val = -88.745277,   |∆| = 2.240832200051301
+
+Optimization step 5 :	
+Overlap term= 0.148118, beta*overlap= 1.481181
+state's energy:-97.371317
+fun_val = -95.890136,   |∆| = 6.082951670861874
+
+Optimization step 10:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.158369
+fun_val = -97.158369,   |∆| = 8.278716734366753e-07
+state 1 is computed 
+
+Using 1 qubits SUMMARY:
+number of function evaluation (state 0, state1): 5, 11
+Converged VQD e0 energy = -98.59606522173388 with FCI error 0.007236555525011568
+Converged VQD e1 energy = -97.15836851586981 with FCI error 0.9733828407454581
+
+
+Number of qubits: 2
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 0.5531231502434165
+
+Optimization step 5 :	
+fun_val = -98.598212,   |∆| = 0.01018383004127382
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.980965, beta*overlap= 9.809653
+state's energy:-98.571011
+fun_val = -88.761358,   |∆| = 3.3125526321814407
+
+Optimization step 5 :	
+Overlap term= 0.000094, beta*overlap= 0.000940
+state's energy:-97.174237
+fun_val = -97.173297,   |∆| = 0.23390710801132344
+
+Optimization step 10:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.174340
+fun_val = -97.174340,   |∆| = 0.0005374364180504172
+state 1 is computed 
+
+Using 2 qubits SUMMARY:
+number of function evaluation (state 0, state1): 10, 13
+Converged VQD e0 energy = -98.59822199951617 with FCI error 0.005079777742722058
+Converged VQD e1 energy = -97.17434033592951 with FCI error 0.957411020685754
+
+
+Number of qubits: 3
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 0.8960396700972452
+
+Optimization step 5 :	
+fun_val = -98.584401,   |∆| = 0.8202561972651078
+
+Optimization step 10:	
+fun_val = -98.602122,   |∆| = 0.03273424839542585
+
+Optimization step 15:	
+fun_val = -98.602165,   |∆| = 3.4813044214292736e-05
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.979650, beta*overlap= 9.796497
+state's energy:-98.571011
+fun_val = -88.774514,   |∆| = 4.788994568715627
+
+Optimization step 5 :	
+Overlap term= 0.015963, beta*overlap= 0.159630
+state's energy:-97.180900
+fun_val = -97.021270,   |∆| = 4.058735670903332
+
+Optimization step 10:	
+Overlap term= 0.000041, beta*overlap= 0.000408
+state's energy:-97.196070
+fun_val = -97.195662,   |∆| = 0.22019640648020802
+
+Optimization step 15:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.196294
+fun_val = -97.196294,   |∆| = 0.0008341392449830479
+state 1 is computed 
+
+Using 3 qubits SUMMARY:
+number of function evaluation (state 0, state1): 18, 19
+Converged VQD e0 energy = -98.6021647738451 with FCI error 0.0011370034137883067
+Converged VQD e1 energy = -97.19629404100115 with FCI error 0.9354573156141157
+
+
+Number of qubits: 4
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 0.9003255908909906
+
+Optimization step 5 :	
+fun_val = -98.583333,   |∆| = 0.8387211301491839
+
+Optimization step 10:	
+fun_val = -98.602565,   |∆| = 0.012074506187672715
+
+Optimization step 15:	
+fun_val = -98.602571,   |∆| = 0.0004200288931067767
+
+Optimization step 20:	
+fun_val = -98.602571,   |∆| = 0.00020798517535892166
+
+Optimization step 25:	
+fun_val = -98.602572,   |∆| = 0.0015149617895345992
+
+Optimization step 30:	
+fun_val = -98.602573,   |∆| = 0.0002717049498684917
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.979469, beta*overlap= 9.794695
+state's energy:-98.571011
+fun_val = -88.776317,   |∆| = 4.787697709907839
+
+Optimization step 5 :	
+Overlap term= 0.014865, beta*overlap= 0.148649
+state's energy:-97.174586
+fun_val = -97.025938,   |∆| = 3.915385417969656
+
+Optimization step 10:	
+Overlap term= 0.000130, beta*overlap= 0.001296
+state's energy:-97.199979
+fun_val = -97.198684,   |∆| = 0.3898234015244646
+
+Optimization step 15:	
+Overlap term= 0.003767, beta*overlap= 0.037671
+state's energy:-97.266262
+fun_val = -97.228590,   |∆| = 1.910519055466179
+
+Optimization step 20:	
+Overlap term= 0.000157, beta*overlap= 0.001570
+state's energy:-97.347162
+fun_val = -97.345591,   |∆| = 1.1471390499432907
+
+Optimization step 25:	
+Overlap term= 0.000002, beta*overlap= 0.000021
+state's energy:-97.375532
+fun_val = -97.375511,   |∆| = 0.10281101912587967
+
+Optimization step 30:	
+Overlap term= 0.000002, beta*overlap= 0.000018
+state's energy:-97.376188
+fun_val = -97.376169,   |∆| = 0.04209404106573752
+
+Optimization step 35:	
+Overlap term= 0.000311, beta*overlap= 0.003108
+state's energy:-97.351811
+fun_val = -97.348703,   |∆| = 0.7711203130334368
+
+Optimization step 40:	
+Overlap term= 0.000004, beta*overlap= 0.000042
+state's energy:-97.383821
+fun_val = -97.383779,   |∆| = 0.08558989358449079
+
+Optimization step 45:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384114
+fun_val = -97.384114,   |∆| = 0.007793134295681779
+
+Optimization step 50:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384117
+fun_val = -97.384117,   |∆| = 0.0020272637124029618
+
+Optimization step 55:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384130
+fun_val = -97.384130,   |∆| = 0.01368582431927482
+
+Optimization step 60:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384182
+fun_val = -97.384182,   |∆| = 0.0020816206698460816
+
+Optimization step 65:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384182
+fun_val = -97.384182,   |∆| = 0.0004933165080406232
+
+Optimization step 70:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384184
+fun_val = -97.384184,   |∆| = 0.00318895871761001
+
+Optimization step 75:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384190
+fun_val = -97.384190,   |∆| = 0.001164029872027574
+
+Optimization step 80:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384191
+fun_val = -97.384191,   |∆| = 0.0002982983297743041
+
+Optimization step 85:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384191
+fun_val = -97.384191,   |∆| = 8.752645519372444e-05
+
+Optimization step 90:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384191
+fun_val = -97.384191,   |∆| = 0.0004083268757135093
+
+Optimization step 95:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384191
+fun_val = -97.384191,   |∆| = 0.0023500875192585756
+
+Optimization step 100:	
+Overlap term= 0.000000, beta*overlap= 0.000002
+state's energy:-97.384175
+fun_val = -97.384173,   |∆| = 0.03392615365113458
+
+Optimization step 105:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384198
+fun_val = -97.384198,   |∆| = 0.007591288473042367
+
+Optimization step 110:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384215
+fun_val = -97.384215,   |∆| = 0.009276974283896953
+
+Optimization step 115:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384223
+fun_val = -97.384223,   |∆| = 0.00566734595370457
+
+Optimization step 120:	
+Overlap term= 0.000000, beta*overlap= 0.000001
+state's energy:-97.384257
+fun_val = -97.384256,   |∆| = 0.017684600723958582
+
+Optimization step 125:	
+Overlap term= 0.000000, beta*overlap= 0.000004
+state's energy:-97.384274
+fun_val = -97.384271,   |∆| = 0.024297991304332148
+
+Optimization step 130:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384321
+fun_val = -97.384321,   |∆| = 0.004218665388030396
+
+Optimization step 135:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384325
+fun_val = -97.384324,   |∆| = 0.0013736590298680806
+
+Optimization step 140:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.384325
+fun_val = -97.384325,   |∆| = 0.00012712455082868415
+state 1 is computed 
+
+Using 4 qubits SUMMARY:
+number of function evaluation (state 0, state1): 33, 145
+Converged VQD e0 energy = -98.60257268962188 with FCI error 0.0007290876370120714
+Converged VQD e1 energy = -97.38432469424984 with FCI error 0.7474266623654273
+
+
+Number of qubits: 5
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 0.9045912053731963
+
+Optimization step 5 :	
+fun_val = -98.582329,   |∆| = 0.8559944431897519
+
+Optimization step 10:	
+fun_val = -98.602949,   |∆| = 0.005692501570014691
+
+Optimization step 15:	
+fun_val = -98.602951,   |∆| = 0.0009747181337123348
+
+Optimization step 20:	
+fun_val = -98.602952,   |∆| = 0.0006869300310414388
+
+Optimization step 25:	
+fun_val = -98.602954,   |∆| = 0.00045695725575359476
+
+Optimization step 30:	
+fun_val = -98.602954,   |∆| = 4.097457424843308e-05
+
+Optimization step 35:	
+fun_val = -98.602954,   |∆| = 3.793005422191277e-05
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.979320, beta*overlap= 9.793197
+state's energy:-98.571011
+fun_val = -88.777814,   |∆| = 4.785294324301842
+
+Optimization step 5 :	
+Overlap term= 0.013871, beta*overlap= 0.138707
+state's energy:-97.168849
+fun_val = -97.030142,   |∆| = 3.7815082690979605
+
+Optimization step 10:	
+Overlap term= 0.000002, beta*overlap= 0.000020
+state's energy:-97.207276
+fun_val = -97.207256,   |∆| = 0.17476953549600258
+
+Optimization step 15:	
+Overlap term= 0.000471, beta*overlap= 0.004711
+state's energy:-97.245548
+fun_val = -97.240837,   |∆| = 0.851649318735342
+
+Optimization step 20:	
+Overlap term= 0.000361, beta*overlap= 0.003610
+state's energy:-97.333348
+fun_val = -97.329738,   |∆| = 0.5562858526878055
+
+Optimization step 25:	
+Overlap term= 0.000153, beta*overlap= 0.001527
+state's energy:-97.336562
+fun_val = -97.335034,   |∆| = 0.13946528971132882
+
+Optimization step 30:	
+Overlap term= 0.000006, beta*overlap= 0.000059
+state's energy:-97.339708
+fun_val = -97.339649,   |∆| = 0.05322441804352201
+
+Optimization step 35:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.339733
+fun_val = -97.339732,   |∆| = 0.0026161790243475567
+
+Optimization step 40:	
+Overlap term= 0.000004, beta*overlap= 0.000042
+state's energy:-97.338916
+fun_val = -97.338875,   |∆| = 0.27642638557962396
+
+Optimization step 45:	
+Overlap term= 0.000010, beta*overlap= 0.000104
+state's energy:-97.340148
+fun_val = -97.340044,   |∆| = 0.21827900130782685
+
+Optimization step 50:	
+Overlap term= 0.000001, beta*overlap= 0.000014
+state's energy:-97.345059
+fun_val = -97.345045,   |∆| = 0.5053487413280842
+
+Optimization step 55:	
+Overlap term= 0.000168, beta*overlap= 0.001678
+state's energy:-97.387258
+fun_val = -97.385580,   |∆| = 0.8050771033462839
+
+Optimization step 60:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.413981
+fun_val = -97.413981,   |∆| = 0.15012779098747533
+
+Optimization step 65:	
+Overlap term= 0.000000, beta*overlap= 0.000001
+state's energy:-97.415221
+fun_val = -97.415220,   |∆| = 0.008434049571039355
+
+Optimization step 70:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-97.415237
+fun_val = -97.415237,   |∆| = 9.713054212716778e-05
+state 1 is computed 
+
+Using 5 qubits SUMMARY:
+number of function evaluation (state 0, state1): 37, 73
+Converged VQD e0 energy = -98.60295380105123 with FCI error 0.00034797620766369164
+Converged VQD e1 energy = -97.41523729953393 with FCI error 0.7165140570813406
+
+
+Number of qubits: 6
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 1.2792853164235942
+
+Optimization step 5 :	
+fun_val = -98.591903,   |∆| = 0.8912963183501864
+
+Optimization step 10:	
+fun_val = -98.602964,   |∆| = 0.09469606152329044
+
+Optimization step 15:	
+fun_val = -98.603272,   |∆| = 0.020775324329296758
+
+Optimization step 20:	
+fun_val = -98.603282,   |∆| = 0.0019268500571781148
+
+Optimization step 25:	
+fun_val = -98.603282,   |∆| = 2.576492681497582e-05
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.978477, beta*overlap= 9.784773
+state's energy:-98.571011
+fun_val = -88.786238,   |∆| = 6.8751772494102195
+
+Optimization step 5 :	
+Overlap term= 0.005712, beta*overlap= 0.057124
+state's energy:-96.928451
+fun_val = -96.871328,   |∆| = 2.860250664471948
+
+Optimization step 10:	
+Overlap term= 0.002752, beta*overlap= 0.027518
+state's energy:-97.729987
+fun_val = -97.702469,   |∆| = 3.1401072546331465
+
+Optimization step 15:	
+Overlap term= 0.000004, beta*overlap= 0.000044
+state's energy:-98.022291
+fun_val = -98.022247,   |∆| = 3.202313101890134
+
+Optimization step 20:	
+Overlap term= 0.000007, beta*overlap= 0.000065
+state's energy:-98.119154
+fun_val = -98.119089,   |∆| = 0.532164989972532
+
+Optimization step 25:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.127790
+fun_val = -98.127790,   |∆| = 0.15492629999867427
+
+Optimization step 30:	
+Overlap term= 0.000001, beta*overlap= 0.000006
+state's energy:-98.129442
+fun_val = -98.129436,   |∆| = 0.03207984345125683
+
+Optimization step 35:	
+Overlap term= 0.000000, beta*overlap= 0.000002
+state's energy:-98.130728
+fun_val = -98.130726,   |∆| = 0.09513372008440872
+
+Optimization step 40:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131569
+fun_val = -98.131569,   |∆| = 0.021897101684041763
+
+Optimization step 45:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131693
+fun_val = -98.131693,   |∆| = 0.002983952619085269
+
+Optimization step 50:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131728
+fun_val = -98.131728,   |∆| = 0.0023529558356731183
+
+Optimization step 55:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131731
+fun_val = -98.131731,   |∆| = 0.0011681278638850459
+
+Optimization step 60:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131732
+fun_val = -98.131732,   |∆| = 0.0004893115300235565
+
+Optimization step 65:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131732
+fun_val = -98.131732,   |∆| = 0.0002900042890420505
+state 1 is computed 
+
+Using 6 qubits SUMMARY:
+number of function evaluation (state 0, state1): 26, 69
+Converged VQD e0 energy = -98.60328186221876 with FCI error 1.9915040127216344e-05
+Converged VQD e1 energy = -98.13173190947208 with FCI error 1.944714318824481e-05
+
+
+Number of qubits: 7
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 1.2831643197409894
+
+Optimization step 5 :	
+fun_val = -98.597199,   |∆| = 0.8860248323050701
+
+Optimization step 10:	
+fun_val = -98.599417,   |∆| = 0.725867274360805
+
+Optimization step 15:	
+fun_val = -98.601838,   |∆| = 0.34071750886454033
+
+Optimization step 20:	
+fun_val = -98.603268,   |∆| = 0.019060121742523486
+
+Optimization step 25:	
+fun_val = -98.603288,   |∆| = 0.0006428176462194771
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.978479, beta*overlap= 9.784788
+state's energy:-98.571011
+fun_val = -88.786223,   |∆| = 6.875251512469768
+
+Optimization step 5 :	
+Overlap term= 0.003422, beta*overlap= 0.034216
+state's energy:-96.769970
+fun_val = -96.735754,   |∆| = 2.763929397671795
+
+Optimization step 10:	
+Overlap term= 0.002762, beta*overlap= 0.027617
+state's energy:-97.294485
+fun_val = -97.266868,   |∆| = 4.422700473677227
+
+Optimization step 15:	
+Overlap term= 0.000319, beta*overlap= 0.003186
+state's energy:-97.447230
+fun_val = -97.444044,   |∆| = 4.632860764334544
+
+Optimization step 20:	
+Overlap term= 0.000983, beta*overlap= 0.009831
+state's energy:-97.841509
+fun_val = -97.831678,   |∆| = 3.2342560928713167
+
+Optimization step 25:	
+Overlap term= 0.000015, beta*overlap= 0.000155
+state's energy:-97.946157
+fun_val = -97.946002,   |∆| = 3.1762174568111594
+
+Optimization step 30:	
+Overlap term= 0.000036, beta*overlap= 0.000363
+state's energy:-98.077272
+fun_val = -98.076910,   |∆| = 1.262032262180308
+
+Optimization step 35:	
+Overlap term= 0.000003, beta*overlap= 0.000035
+state's energy:-98.110836
+fun_val = -98.110801,   |∆| = 1.1042490679152352
+
+Optimization step 40:	
+Overlap term= 0.000021, beta*overlap= 0.000210
+state's energy:-98.122723
+fun_val = -98.122512,   |∆| = 0.5527976847119553
+
+Optimization step 45:	
+Overlap term= 0.000004, beta*overlap= 0.000035
+state's energy:-98.129115
+fun_val = -98.129080,   |∆| = 0.2767090470962571
+
+Optimization step 50:	
+Overlap term= 0.000000, beta*overlap= 0.000002
+state's energy:-98.130581
+fun_val = -98.130579,   |∆| = 0.09399208405151678
+
+Optimization step 55:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131352
+fun_val = -98.131352,   |∆| = 0.06745291353038621
+
+Optimization step 60:	
+Overlap term= 0.000000, beta*overlap= 0.000003
+state's energy:-98.131605
+fun_val = -98.131602,   |∆| = 0.016255766136691545
+
+Optimization step 65:	
+Overlap term= 0.000000, beta*overlap= 0.000002
+state's energy:-98.131677
+fun_val = -98.131675,   |∆| = 0.027778714185221737
+
+Optimization step 70:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131719
+fun_val = -98.131719,   |∆| = 0.00897975999797397
+
+Optimization step 75:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131736
+fun_val = -98.131736,   |∆| = 0.0055006429630759055
+
+Optimization step 80:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131740
+fun_val = -98.131740,   |∆| = 0.004279935749356771
+
+Optimization step 85:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 0.0005368820296097687
+
+Optimization step 90:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 0.0001509356104160434
+
+Optimization step 95:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 0.0001506714800253418
+
+Optimization step 100:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 9.288878140716819e-05
+
+Optimization step 105:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 0.00016645411978276302
+
+Optimization step 110:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 0.00010571178666273898
+
+Optimization step 115:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131742
+fun_val = -98.131742,   |∆| = 5.207290182259429e-05
+state 1 is computed 
+
+Using 7 qubits SUMMARY:
+number of function evaluation (state 0, state1): 29, 117
+Converged VQD e0 energy = -98.60328815244964 with FCI error 1.3624809255929904e-05
+Converged VQD e1 energy = -98.13174161895797 with FCI error 9.73765729384013e-06
+
+
+Number of qubits: 8
+
+state 0 computation begins
+
+Optimization step 0 :	
+fun_val = -98.571011,   |∆| = 1.2944589920872926
+
+Optimization step 5 :	
+fun_val = -98.591291,   |∆| = 1.1502218423529136
+
+Optimization step 10:	
+fun_val = -98.595200,   |∆| = 1.0229697280665988
+
+Optimization step 15:	
+fun_val = -98.601209,   |∆| = 0.6296514798817685
+
+Optimization step 20:	
+fun_val = -98.602377,   |∆| = 0.3889821482274005
+
+Optimization step 25:	
+fun_val = -98.603301,   |∆| = 0.0066404214857025985
+
+Optimization step 30:	
+fun_val = -98.603302,   |∆| = 5.564752350088316e-05
+state 0 is computed 
+
+
+state 1 computation begins
+
+Optimization step 0 :	
+Overlap term= 0.978482, beta*overlap= 9.784822
+state's energy:-98.571011
+fun_val = -88.786189,   |∆| = 6.875973795487164
+
+Optimization step 5 :	
+Overlap term= 0.000767, beta*overlap= 0.007671
+state's energy:-96.161170
+fun_val = -96.153499,   |∆| = 32.62399135538043
+
+Optimization step 10:	
+Overlap term= 0.000292, beta*overlap= 0.002921
+state's energy:-96.951300
+fun_val = -96.948379,   |∆| = 9.87583405399164
+
+Optimization step 15:	
+Overlap term= 0.000119, beta*overlap= 0.001194
+state's energy:-97.360099
+fun_val = -97.358905,   |∆| = 9.155372135527221
+
+Optimization step 20:	
+Overlap term= 0.000143, beta*overlap= 0.001434
+state's energy:-97.446382
+fun_val = -97.444948,   |∆| = 1.2092649822727866
+
+Optimization step 25:	
+Overlap term= 0.000119, beta*overlap= 0.001189
+state's energy:-97.451124
+fun_val = -97.449935,   |∆| = 1.0473198811336546
+
+Optimization step 30:	
+Overlap term= 0.000203, beta*overlap= 0.002033
+state's energy:-97.489309
+fun_val = -97.487275,   |∆| = 3.9040081365448676
+
+Optimization step 35:	
+Overlap term= 0.000483, beta*overlap= 0.004834
+state's energy:-97.522948
+fun_val = -97.518114,   |∆| = 5.615508779994912
+
+Optimization step 40:	
+Overlap term= 0.000032, beta*overlap= 0.000323
+state's energy:-97.569890
+fun_val = -97.569567,   |∆| = 5.98368021796732
+
+Optimization step 45:	
+Overlap term= 0.000280, beta*overlap= 0.002802
+state's energy:-97.731037
+fun_val = -97.728235,   |∆| = 5.338149455413089
+
+Optimization step 50:	
+Overlap term= 0.000218, beta*overlap= 0.002182
+state's energy:-98.046988
+fun_val = -98.044806,   |∆| = 5.00385428661419
+
+Optimization step 55:	
+Overlap term= 0.000232, beta*overlap= 0.002322
+state's energy:-98.099055
+fun_val = -98.096733,   |∆| = 1.9512285932561635
+
+Optimization step 60:	
+Overlap term= 0.000001, beta*overlap= 0.000006
+state's energy:-98.122750
+fun_val = -98.122744,   |∆| = 1.2502821018849293
+
+Optimization step 65:	
+Overlap term= 0.000019, beta*overlap= 0.000194
+state's energy:-98.129279
+fun_val = -98.129085,   |∆| = 0.3193820705645864
+
+Optimization step 70:	
+Overlap term= 0.000014, beta*overlap= 0.000135
+state's energy:-98.129957
+fun_val = -98.129821,   |∆| = 0.1470889973344769
+
+Optimization step 75:	
+Overlap term= 0.000004, beta*overlap= 0.000044
+state's energy:-98.130540
+fun_val = -98.130496,   |∆| = 0.15306476522617143
+
+Optimization step 80:	
+Overlap term= 0.000007, beta*overlap= 0.000073
+state's energy:-98.130735
+fun_val = -98.130662,   |∆| = 0.03918348910576752
+
+Optimization step 85:	
+Overlap term= 0.000016, beta*overlap= 0.000161
+state's energy:-98.131120
+fun_val = -98.130959,   |∆| = 0.1554250369537805
+
+Optimization step 90:	
+Overlap term= 0.000011, beta*overlap= 0.000105
+state's energy:-98.131285
+fun_val = -98.131180,   |∆| = 0.18916530683567634
+
+Optimization step 95:	
+Overlap term= 0.000002, beta*overlap= 0.000020
+state's energy:-98.131448
+fun_val = -98.131428,   |∆| = 0.024541378731529014
+
+Optimization step 100:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131565
+fun_val = -98.131565,   |∆| = 0.024911542827659443
+
+Optimization step 105:	
+Overlap term= 0.000001, beta*overlap= 0.000006
+state's energy:-98.131611
+fun_val = -98.131606,   |∆| = 0.019508557097467297
+
+Optimization step 110:	
+Overlap term= 0.000000, beta*overlap= 0.000004
+state's energy:-98.131644
+fun_val = -98.131640,   |∆| = 0.01277862657169453
+
+Optimization step 115:	
+Overlap term= 0.000000, beta*overlap= 0.000001
+state's energy:-98.131690
+fun_val = -98.131690,   |∆| = 0.01529190600885338
+
+Optimization step 120:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131712
+fun_val = -98.131712,   |∆| = 0.012927947703743378
+
+Optimization step 125:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131724
+fun_val = -98.131724,   |∆| = 0.006852724583648594
+
+Optimization step 130:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131730
+fun_val = -98.131730,   |∆| = 0.007137850051715536
+
+Optimization step 135:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131735
+fun_val = -98.131735,   |∆| = 0.005981179626614032
+
+Optimization step 140:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131737
+fun_val = -98.131737,   |∆| = 0.0030646628120344836
+
+Optimization step 145:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131739
+fun_val = -98.131739,   |∆| = 0.0029938255207659532
+
+Optimization step 150:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131740
+fun_val = -98.131740,   |∆| = 0.0026836170879765736
+
+Optimization step 155:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131743
+fun_val = -98.131743,   |∆| = 0.00340532822480501
+
+Optimization step 160:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131744
+fun_val = -98.131744,   |∆| = 0.002085136707030872
+
+Optimization step 165:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131744
+fun_val = -98.131744,   |∆| = 0.0012188408135360982
+
+Optimization step 170:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131745
+fun_val = -98.131745,   |∆| = 0.0010316810807903364
+
+Optimization step 175:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131745
+fun_val = -98.131745,   |∆| = 0.0014577108965355046
+
+Optimization step 180:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131746
+fun_val = -98.131746,   |∆| = 0.0009805078211637505
+
+Optimization step 185:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131746
+fun_val = -98.131746,   |∆| = 0.0004638740685597118
+
+Optimization step 190:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131746
+fun_val = -98.131746,   |∆| = 0.0006993218192708823
+
+Optimization step 195:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131746
+fun_val = -98.131746,   |∆| = 0.0005954056529924376
+
+Optimization step 200:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131746
+fun_val = -98.131746,   |∆| = 0.0006448237450620769
+
+Optimization step 205:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131747
+fun_val = -98.131747,   |∆| = 0.002150613465508286
+
+Optimization step 210:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131747
+fun_val = -98.131747,   |∆| = 0.0007603212495204703
+
+Optimization step 215:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131747
+fun_val = -98.131747,   |∆| = 0.0003709317415883123
+
+Optimization step 220:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131747
+fun_val = -98.131747,   |∆| = 0.0005719736391913831
+
+Optimization step 225:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.001357333287787723
+
+Optimization step 230:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0005947000100829542
+
+Optimization step 235:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0009822123253700951
+
+Optimization step 240:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0002777004806960924
+
+Optimization step 245:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00028332165029802843
+
+Optimization step 250:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0011534637386891094
+
+Optimization step 255:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0014643801146418736
+
+Optimization step 260:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0014253153029972745
+
+Optimization step 265:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0007653705445376129
+
+Optimization step 270:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0007789957367115865
+
+Optimization step 275:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0020079888186116915
+
+Optimization step 280:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00086842316284073
+
+Optimization step 285:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0003208247795257526
+
+Optimization step 290:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00010431146035767648
+
+Optimization step 295:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0002134237919725209
+
+Optimization step 300:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0004849258040303995
+
+Optimization step 305:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0015743919445143234
+
+Optimization step 310:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00033475298628643675
+
+Optimization step 315:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0003344810425332999
+
+Optimization step 320:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00010510205054215023
+
+Optimization step 325:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.00024360835786346472
+
+Optimization step 330:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131748
+fun_val = -98.131748,   |∆| = 0.0006364193616105844
+
+Optimization step 335:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0010589982042971471
+
+Optimization step 340:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0015268427649549636
+
+Optimization step 345:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.00020051641935405336
+
+Optimization step 350:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 8.54336840910648e-05
+
+Optimization step 355:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 5.474631222567131e-05
+
+Optimization step 360:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 5.364546966300071e-05
+
+Optimization step 365:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0002376486565528228
+
+Optimization step 370:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0008951373580303186
+
+Optimization step 375:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0011415126531805263
+
+Optimization step 380:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0002579108210875001
+
+Optimization step 385:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0003044011280259813
+
+Optimization step 390:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0003620410932811724
+
+Optimization step 395:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 5.184880224088716e-05
+
+Optimization step 400:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 9.003361215543333e-05
+
+Optimization step 405:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.00040882678405415075
+
+Optimization step 410:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0006462130970617438
+
+Optimization step 415:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.00034452002243930694
+
+Optimization step 420:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0013007245849265918
+
+Optimization step 425:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0030926144872285666
+
+Optimization step 430:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0008171493952272995
+
+Optimization step 435:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131749
+fun_val = -98.131749,   |∆| = 0.0005897172526295199
+
+Optimization step 440:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0011962243115971355
+
+Optimization step 445:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.001364735202306976
+
+Optimization step 450:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0006739941944119326
+
+Optimization step 455:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0008228042092536616
+
+Optimization step 460:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0008070364564852832
+
+Optimization step 465:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0007648644782160096
+
+Optimization step 470:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0008113553030034784
+
+Optimization step 475:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0029540409205744264
+
+Optimization step 480:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.00037756872725709455
+
+Optimization step 485:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.00023458964111540653
+
+Optimization step 490:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.000550180634595245
+
+Optimization step 495:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0004885841108640556
+
+Optimization step 500:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0006864442451264825
+
+Optimization step 505:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0028115056935564538
+
+Optimization step 510:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0009688560225506109
+
+Optimization step 515:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0004707190890055538
+
+Optimization step 520:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0005973969087942273
+
+Optimization step 525:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.001101087769367862
+
+Optimization step 530:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0006411969121172965
+
+Optimization step 535:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0011687491845087925
+
+Optimization step 540:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0008377777680707967
+
+Optimization step 545:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0002847318187149295
+
+Optimization step 550:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0002545962368940869
+
+Optimization step 555:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0002763458924524886
+
+Optimization step 560:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0006129433016269831
+
+Optimization step 565:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.00018517819831648873
+
+Optimization step 570:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131750
+fun_val = -98.131750,   |∆| = 0.0002449631241144664
+
+Optimization step 575:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0009637676980624482
+
+Optimization step 580:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0011050729056051361
+
+Optimization step 585:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0009440642554840105
+
+Optimization step 590:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0005214618436343425
+
+Optimization step 595:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0006327436334843885
+
+Optimization step 600:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0004108473818585106
+
+Optimization step 605:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0003178666786702619
+
+Optimization step 610:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00015344112102816325
+
+Optimization step 615:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 9.984804295346874e-05
+
+Optimization step 620:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0001593987652198844
+
+Optimization step 625:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 8.068371255990964e-05
+
+Optimization step 630:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00027437456896712626
+
+Optimization step 635:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0010044954506353634
+
+Optimization step 640:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.002159096868795421
+
+Optimization step 645:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0010537539969758594
+
+Optimization step 650:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00020821252656565056
+
+Optimization step 655:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0001829449211648794
+
+Optimization step 660:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00034082477245092813
+
+Optimization step 665:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0003589727966359439
+
+Optimization step 670:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0006338604236394925
+
+Optimization step 675:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0008656406662013799
+
+Optimization step 680:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0011813404881034553
+
+Optimization step 685:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0007380637172400395
+
+Optimization step 690:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00026514471883695424
+
+Optimization step 695:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00019525610809641497
+
+Optimization step 700:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 7.752786283877405e-05
+
+Optimization step 705:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 9.4901560881495e-05
+
+Optimization step 710:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00011017058004039485
+
+Optimization step 715:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0002035476836729371
+
+Optimization step 720:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.0003591554102348215
+
+Optimization step 725:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00015738699150733574
+
+Optimization step 730:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00013394931243811096
+
+Optimization step 735:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 0.00011958839864716734
+
+Optimization step 740:	
+Overlap term= 0.000000, beta*overlap= 0.000000
+state's energy:-98.131751
+fun_val = -98.131751,   |∆| = 1.6753398630529014e-05
+state 1 is computed 
+
+Using 8 qubits SUMMARY:
+number of function evaluation (state 0, state1): 32, 741
+Converged VQD e0 energy = -98.60330177724747 with FCI error 1.1425527191022411e-11
+Converged VQD e1 energy = -98.13175100994444 with FCI error 3.466708307087174e-07
+
+
+Procedure ends at : 2024-10-25 12:10:53
+total_time: 8072.91 seconds, 134.55 minutes
