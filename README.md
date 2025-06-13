@@ -1,4 +1,4 @@
-# CS-VQD-with-Symm-Opt
+# CS-VQD with Symmetry Optimize
 This is the code for the paper [arXiv:2502.17932](https://arxiv.org/abs/2502.17932).
 
 # How to cite
